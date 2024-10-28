@@ -1,6 +1,6 @@
 ### Hi there 👋,I am Azhar Mahmud
 #### I am a MERN Developer
-![I am a MERN Developer](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/450892493_1616651082512520_2380345919623164313_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=bjVhotFQ8J0Q7kNvgFp5Zs8&_nc_ht=scontent.fdac20-1.fna&oh=00_AYA9utrybqHQv22Rg1aa55aXLxVCOks2lc5SgiHOrWMOzQ&oe=669A6542)
+(https://i.ibb.co.com/6cSJrWW/White-Minimalist-Profile-Linked-In-Banner.jpg)
 
 👋 Hi there! I am a passionate MERN (MongoDB, Express, React, Node.js) developer. I specialize in building full-stack web applications and have a strong background in JavaScript, both on the client and server side. Always eager to learn and explore new technologies. Let's create something amazing together!
 
