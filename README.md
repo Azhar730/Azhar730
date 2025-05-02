@@ -1,21 +1,65 @@
-### Hi there 👋,I am Azhar Mahmud
-![MERN Developer](https://i.ibb.co.com/6cSJrWW/White-Minimalist-Profile-Linked-In-Banner.jpg)
+<h1 align="center">Hi there, I'm Azhar Mahmud 👋</h1>
+<h3 align="center">Frontend-focused MERN Stack Developer | Passionate Problem Solver | Freelancer</h3>
 
-👋 Hi there! I am a passionate MERN (MongoDB, Express, React, Node.js) developer. I specialize in building full-stack web applications and have a strong background in JavaScript, both on the client and server side. Always eager to learn and explore new technologies. Let's create something amazing together!
+---
 
-Skills: JavaScript,React,Firebase,Node,Express,MongoDB
+### 💻 Tech Stack I Work With:
 
-- 🔭 I’m currently working on ReactJS 
-- 🌱 I’m currently learning NextJS 
-- 💬 Ask me about JavaScript,React,Firebase,Node,Express,MongoDB 
-- 📫 How to reach me: azharmahmud730@gmail.com 
-- ⚡ Fun fact: React 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,firebase,nodejs,express,mongodb" />
+</div>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Azhar730)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/azhar_mahmud_eebea88ced1a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azhar-mahmud-437306267/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdajhar.mahmud.940)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/azharmahmud730)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/azharmahmud730)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21730616/azhar-mahmud)  
+### 🚀 About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Azhar730&show_icons=true)  
+- 🌱 I’m currently mastering **TypeScript**, **Next.js**, and advanced **MERN stack** projects
+- 🔭 I'm building responsive, animated, and high-performance **full-stack web apps**
+- 💼 Looking for freelance and remote opportunities
+- 🎯 Goal: Earn through freelancing and grow as a **professional full-stack developer**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Azhar730)
+---
+
+### 🧰 Tools & Skills
+
+- **Frontend**: HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript, React.js, Redux Toolkit, Next.js
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- **Authentication**: Firebase Auth, JWT
+- **Tools**: Git & GitHub, Vercel, Postman, Figma (Basic), VS Code
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description | Live | Client Code | Server Code |
+|--------|-------------|------|-------------|-------------|
+| **Food Unity 🍱** | A community-based food-sharing app with login, donation, and admin dashboard. | [Live](https://foodunity-cc2e3.web.app) | [Client](https://github.com/Azhar730/food-unity-client) | [Server](https://github.com/Azhar730/food-unity-server) |
+| **MediMart 💊** | A medicine e-commerce site with order, prescription upload, admin dashboard. | Coming Soon | — | — |
+| **Bicycle Store 🚴‍♂️** | Full CRUD app with TypeScript, Express, and MongoDB | Coming Soon | — | — |
+
+---
+
+### 📫 Let’s Connect!
+
+- 🔗 Portfolio: [azharmahmud.vercel.app](https://azharmahmud.vercel.app) *(if you haven't deployed yet, let me know and I’ll help)*
+- 💼 LinkedIn: [linkedin.com/in/azhar730](https://www.linkedin.com/in/azhar730/)
+- 📧 Email: mahmudazhar730@gmail.com
+- 💬 Fiverr & Upwork: Open to freelance work
+
+---
+
+### 🧠 Fun Facts
+
+- 🧪 I love building real-world projects with clean UI and smart UX
+- 🧑‍💻 I spend 4–5 hours daily coding, freelancing, and learning
+- 🎯 I aim to earn $100+/month via freelance dev work
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azhar730&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhar730&layout=compact&theme=radical" />
+</p>
+
 
 
