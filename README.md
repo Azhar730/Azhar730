@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Azhar Mahmud 👋</h1>
-<h3 align="center">Frontend-focused MERN Stack Developer | Passionate Problem Solver | Freelancer</h3>
+<h3 align="center">MERN Stack Developer | Backend Developer with Node,mongoose,MongoDB</h3>
 
 ---
 
