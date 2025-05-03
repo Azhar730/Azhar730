@@ -31,28 +31,25 @@
 
 ### 🧩 Featured Projects
 
-| Project | Description | Live | Client Code | Server Code |
+| Project | Description | Live | Github |
 |--------|-------------|------|-------------|-------------|
-| **Food Unity 🍱** | A community-based food-sharing app with login, donation, and admin dashboard. | [Live](https://foodunity-cc2e3.web.app) | [Client](https://github.com/Azhar730/food-unity-client) | [Server](https://github.com/Azhar730/food-unity-server) |
-| **MediMart 💊** | A medicine e-commerce site with order, prescription upload, admin dashboard. | Coming Soon | — | — |
-| **Bicycle Store 🚴‍♂️** | Full CRUD app with TypeScript, Express, and MongoDB | Coming Soon | — | — |
-
+| **Food Unity 🍱** | A community-based food-sharing app with login, donation, and admin dashboard. | (https://foodunity-cc2e3.web.app) | (https://github.com/Azhar730/food-unity) |
+| **MediMart 💊** | A medicine e-commerce site with order, prescription upload, admin dashboard. | (https://medimart-nu.vercel.app) | (https://github.com/Azhar730/medi-mart)|
+| **Bicycle Store 🚴‍♂️** | Full CRUD app with TypeScript, Express, and MongoDB | (https://cycle-mart-chi.vercel.app) | https://github.com/Azhar730/cycle-mart.git|
 ---
 
 ### 📫 Let’s Connect!
 
-- 🔗 Portfolio: [azharmahmud.vercel.app](https://azharmahmud.vercel.app) *(if you haven't deployed yet, let me know and I’ll help)*
-- 💼 LinkedIn: [linkedin.com/in/azhar730](https://www.linkedin.com/in/azhar730/)
-- 📧 Email: mahmudazhar730@gmail.com
-- 💬 Fiverr & Upwork: Open to freelance work
+- 🔗 Portfolio: [https://azharmahmud.vercel.app/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/azhar-mahmud-437306267]
+- 📧 Email: azharmahmud730@gmail.com
 
 ---
 
 ### 🧠 Fun Facts
 
 - 🧪 I love building real-world projects with clean UI and smart UX
-- 🧑‍💻 I spend 4–5 hours daily coding, freelancing, and learning
-- 🎯 I aim to earn $100+/month via freelance dev work
+- 🧑‍💻 I spend 6–8 hours daily coding, freelancing, and learning
 
 ---
 
