@@ -1,6 +1,6 @@
 <!-- 🏞 Banner / Cover Image -->
 <p align="center">
-  <img src="https://i.imgur.com/7D6IagV.png" alt="Azhar Mahmud Banner" />
+  <img src="[https://i.imgur.com/7D6IagV.png](https://www.canva.com/design/DAGEJTHQM2c/ERs5lI9_y1vqY0UpmzuEvg/edit?utm_content=DAGEJTHQM2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Azhar Mahmud Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Azhar Mahmud 👋</h1>
