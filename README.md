@@ -13,7 +13,7 @@
 - 📛 **Full Name:** Md. Azhar Mahmud *(used in official documents)*
 - 🧑‍💼 **Professional Photo:**  
 <p align="center">
-  <img src="https://i.imgur.com/HX1AQz5.png" alt="Azhar Mahmud" width="150" style="border-radius: 50%;" />
+  <img src="https://i.postimg.cc/CMn9yxfJ/IMG-20230809-145342.png" alt="Azhar Mahmud" width="150" style="border-radius: 50%;" />
 </p>
 
 ---
