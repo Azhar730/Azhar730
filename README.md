@@ -10,13 +10,18 @@
 
 ### 👤 Professional Identity
 
-- 📛 **Full Name:** Md. Azhar Mahmud *(used in official documents)*
-- 🧑‍💼 **Professional Photo:**  
-<p align="center">
-  <img src="https://i.postimg.cc/CMn9yxfJ/IMG-20230809-145342.png" alt="Azhar Mahmud" width="150" style="border-radius: 50%;" />
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://i.postimg.cc/CMn9yxfJ/IMG-20230809-145342.png" alt="Azhar Mahmud" width="150" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h3>👋 Hello! I'm <strong>Md. Azhar Mahmud</strong></h3>
+      <p>A dedicated MERN Stack Developer with a focus on clean code, scalable backend systems, and user-first frontends.</p>
+      <p><strong>📛 Full Name:</strong> Md. Azhar Mahmud (as per official documents)</p>
+    </td>
+  </tr>
+</table>
 
 ### 🎯 Vision & Description
 
