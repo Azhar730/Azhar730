@@ -18,7 +18,6 @@
     <td>
       <h3>👋 Hello! I'm <strong>Md. Azhar Mahmud</strong></h3>
       <p>A dedicated MERN Stack Developer with a focus on clean code, scalable backend systems, and user-first frontends.</p>
-      <p><strong>📛 Full Name:</strong> Md. Azhar Mahmud (as per official documents)</p>
     </td>
   </tr>
 </table>
