@@ -16,8 +16,7 @@
       <img src="https://i.postimg.cc/CMn9yxfJ/IMG-20230809-145342.png" alt="Azhar Mahmud" width="150" style="border-radius: 50%;" />
     </td>
     <td>
-      <h3>👋 Hello! I'm <strong>Md. Azhar Mahmud</strong></h3>
-      <p>A dedicated MERN Stack Developer with a focus on clean code, scalable backend systems, and user-first frontends.</p>
+      <p>I’m a dedicated MERN Stack Developer passionate about building modern web applications that are fast, responsive, and scalable. I specialize in writing clean, maintainable code, crafting seamless user experiences, and building secure, efficient backend systems. With a strong understanding of both frontend and backend technologies, I aim to deliver full-stack solutions that solve real-world problems and add value to businesses. I continuously learn and grow to stay ahead in tech.</p>
     </td>
   </tr>
 </table>
