@@ -1,95 +1,89 @@
-<h1 align="center">Hi there, I'm Azhar Mahmud 👋</h1>
-<h3 align="center">MERN Stack Developer | Backend Specialist (Node.js, Mongoose, MongoDB)</h3>
+<!-- 🏞 Banner / Cover Image -->
+<p align="center">
+  <img src="https://i.imgur.com/7D6IagV.png" alt="Azhar Mahmud Banner" />
+</p>
+
+<h1 align="center">Hi, I'm Azhar Mahmud 👋</h1>
+<h3 align="center">MERN Stack Developer | Backend Specialist | Passionate Problem Solver</h3>
 
 ---
 
-### 💻 Tech Stack I Work With
+### 👤 Professional Identity
 
+- 📛 **Full Name:** Md. Azhar Mahmud *(used in official documents)*
+- 🧑‍💼 **Professional Photo:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,firebase,nodejs,express,mongodb,git,github" alt="Tech Stack Icons" />
+  <img src="https://i.imgur.com/HX1AQz5.png" alt="Azhar Mahmud" width="150" style="border-radius: 50%;" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🎯 Vision & Description
 
-- 🌱 Currently mastering **TypeScript**, **Next.js**, and advanced **MERN stack** concepts  
-- 🔭 Building responsive, animated, and high-performance **full-stack web apps**  
-- 💼 Available for **freelance** and **remote jobs**  
-- 🎯 Goal: Earn through freelancing and grow into a **senior full-stack developer**  
-- ✅ Focused on **clean code**, **scalable architecture**, and **smooth user experience**
+> I'm a self-motivated Full-Stack Web Developer with a passion for building scalable, clean, and user-friendly applications.  
+> My vision is to become a globally trusted full-stack developer by building impactful, real-world solutions for people and businesses.
 
 ---
 
-### 🧰 Tools & Skills
+### 🧑‍💻 What I Do
 
-- **Frontend**: HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript, React.js, Redux Toolkit, Next.js  
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose  
-- **Authentication**: Firebase Auth, JWT  
-- **Tools**: Git & GitHub, Vercel, Postman, Figma (Basic), VS Code  
-
----
-
-### 💼 Services I Provide
-
-- 🔧 Full-Stack Website Development (MERN)
-- 🛠️ Backend API Development with Node & Express
-- 🧪 Firebase / JWT Authentication Systems
-- 🖼️ Responsive UI with Tailwind and React
-- 🧾 Admin Dashboards & Role-Based Access Control
-- 📦 Deployments using Vercel, Render, and MongoDB Atlas
-- 🧑‍💻 Bug fixing, optimization, and project refactoring
+I specialize in:
+- ✅ Full-Stack Web Development (MERN)
+- ✅ Backend API development & integration
+- ✅ Authentication & Admin Dashboards
+- ✅ Clean UI with Tailwind and React
+- ✅ MongoDB-based database solutions
+- ✅ TypeScript + Next.js production apps
 
 ---
 
-### 🧩 Featured Projects
-
-| Project | Description | Live Site | GitHub |
-|--------|-------------|-----------|--------|
-| **Food Unity 🍱** | Community-based food-sharing app with login, donation, and admin dashboard. | [Live](https://foodunity-cc2e3.web.app) | [Repo](https://github.com/Azhar730/food-unity) |
-| **MediMart 💊** | Medicine e-commerce platform with order system, prescription upload, and admin dashboard. | [Live](https://medimart-nu.vercel.app) | [Repo](https://github.com/Azhar730/medi-mart) |
-| **Bicycle Store 🚴‍♂️** | Full CRUD web app using TypeScript, Express.js, MongoDB. | [Live](https://cycle-mart-chi.vercel.app) | [Repo](https://github.com/Azhar730/cycle-mart.git) |
-
----
-
-### 📊 GitHub Stack
+### 🧰 Tech Stack I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhar730&show_icons=true&theme=radical" alt="Azhar's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azhar730&theme=radical&hide_border=false" alt="Azhar's GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar730&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Azhar730&theme=radical" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,nodejs,express,mongodb,firebase,git,github,vercel,figma" />
 </p>
 
 ---
 
-### 🌟 Client Highlights (Why Hire Me?)
+### 📊 GitHub Status
 
-- ✅ **100% Client Satisfaction Focus**  
-- 🚀 Fast Delivery & Clean Code  
-- 🧠 Strong Problem Solving Skills  
-- 📞 Always Communicative and Friendly  
-- 🧪 Real-world Project Experience  
-- 🔒 Focus on Security & Performance  
-
----
-
-### 📫 Let’s Connect!
-
-- 🔗 **Portfolio**: [azharmahmud.vercel.app](https://azharmahmud.vercel.app)  
-- 💼 **LinkedIn**: [Azhar Mahmud](https://www.linkedin.com/in/azhar-mahmud-437306267)  
-- 📧 **Email**: azharmahmud730@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhar730&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azhar730&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar730&layout=compact&theme=radical" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Azhar730&theme=radical" />
+</p>
 
 ---
 
-### 🧠 Fun Facts
+### 📌 Pinned Projects
 
-- 🧪 I enjoy building real-world projects with clean UI and smart UX  
-- 👨‍💻 I spend 6–8 hours daily coding, freelancing, and learning  
-- 🌍 I love working with clients around the world 🌐  
+| Project | Description | Live | GitHub |
+|--------|-------------|------|--------|
+| **Food Unity 🍱** | Food-sharing app with user auth, donation system, admin panel | [Live](https://foodunity-cc2e3.web.app) | [GitHub](https://github.com/Azhar730/food-unity) |
+| **MediMart 💊** | Medicine e-commerce app with prescription upload, orders, admin roles | [Live](https://medimart-nu.vercel.app) | [GitHub](https://github.com/Azhar730/medi-mart) |
+| **Bicycle Store 🚴‍♂️** | Full CRUD TypeScript-based store using Express and MongoDB | [Live](https://cycle-mart-chi.vercel.app) | [GitHub](https://github.com/Azhar730/cycle-mart) |
+
+> 📁 Each project includes a detailed README file explaining features, stack, setup instructions, and live demo links.
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 **Portfolio:** [https://azharmahmud.vercel.app](https://azharmahmud.vercel.app)  
+- 💼 **LinkedIn:** [Azhar Mahmud](https://www.linkedin.com/in/azhar-mahmud-437306267)  
+- 📧 **Email:** azharmahmud730@gmail.com  
+- 🐙 **GitHub:** [Azhar730](https://github.com/Azhar730)
+
+---
+
+### 💬 Final Note
+
+> "Code with purpose, build with passion."  
+> I’m open to freelance projects, collaborations, and internships!
 
 ---
 
