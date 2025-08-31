@@ -37,16 +37,21 @@ I specialize in:
 - ✅ Backend API development & integration
 - ✅ Authentication & Admin Dashboards
 - ✅ Clean UI with Tailwind and React
-- ✅ MongoDB-based database solutions
+- ✅ MongoDB + PostgreSQL database solutions
 - ✅ TypeScript + Next.js production apps
+- ✅ Prisma ORM for scalable backend architecture
 
 ---
 
 ### 🧰 Tech Stack I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,nodejs,express,mongodb,firebase,git,github,vercel,figma" />
-</p>
+<div align="center">
+
+| Frontend | Backend | Database & ORM | Tools |
+|----------|----------|----------------|-------|
+| ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Next.js](https://skillicons.dev/icons?i=next) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Prisma](https://skillicons.dev/icons?i=prisma) | ![Firebase](https://skillicons.dev/icons?i=firebase) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Figma](https://skillicons.dev/icons?i=figma) |
+
+</div>
 
 ---
 
@@ -62,7 +67,7 @@ I specialize in:
   <img src="https://github-profile-trophy.vercel.app/?username=Azhar730&theme=radical" />
   <br />
   <!-- New GitHub Contribution Image -->
-  <img src="https://i.postimg.cc/1t7tJpQv/github.png" alt="GitHub Contribution Stats" />
+  <img src="https://i.postimg.cc/1t7tJpQv/github.png" alt="GitHub Contribution Stats" width="600"/>
 </p>
 
 ---
