@@ -21,6 +21,8 @@
   </tr>
 </table>
 
+---
+
 ### 🎯 Vision & Description
 
 > I'm a self-motivated Full-Stack Web Developer with a passion for building scalable, clean, and user-friendly applications.  
@@ -58,6 +60,9 @@ I specialize in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar730&layout=compact&theme=radical" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Azhar730&theme=radical" />
+  <br />
+  <!-- New GitHub Contribution Image -->
+  <img src="https://i.postimg.cc/1t7tJpQv/github.png" alt="GitHub Contribution Stats" />
 </p>
 
 ---
@@ -89,4 +94,3 @@ I specialize in:
 > I’m open to freelance projects, collaborations, and internships!
 
 ---
-
