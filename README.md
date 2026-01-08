@@ -58,16 +58,15 @@ I specialize in:
 ### 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhar730&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azhar730&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar730&layout=compact&theme=radical" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Azhar730&theme=radical" />
-  <br />
-  <!-- New GitHub Contribution Image -->
-  <img src="https://i.postimg.cc/1t7tJpQv/github.png" alt="GitHub Contribution Stats" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhar730&show_icons=true&theme=radical" width="450"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azhar730&theme=radical" width="450"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar730&layout=compact&theme=radical" width="450"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Azhar730&theme=radical"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhar730&theme=react-dark"/>
 </p>
 
 ---
